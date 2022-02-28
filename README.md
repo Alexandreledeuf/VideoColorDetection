@@ -1,6 +1,8 @@
-# VideoColorDetection
+<p align="center"><img src="PycolorLogo.PNG"\></p>
 
-- This Notebook allows you to identify the main color present in a given area on a video.
+# Pycolor : Video Color Detection
+
+- Pycolor is a program that allows you to identify the main color present in a given area on a video.
 
 # Requirements
 
