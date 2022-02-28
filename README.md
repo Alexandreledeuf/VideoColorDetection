@@ -32,7 +32,9 @@
 
 # Gif Output
 
-<p align="center"><img src="data/gif/VideoOutput.gif"\></p>
+<p align="center"><img src="data/gif/Parrot.gif"\></p>
+
+<p align="center"><img src="data/gif/color.gif"\></p>
 
 
  
