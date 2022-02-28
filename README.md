@@ -1,8 +1,8 @@
 <p align="center"><img src="PycolorLogo.PNG"\></p>
 
-# Pycolor_Video : Video Color Detection
+# PycolorVideo : Video Color Detection
 
-- Pycolor_Video is a program that allows you to identify the main color present in a given area on a video.
+- PycolorVideo is a program that allows you to identify the main color present in a given area on a video.
 
 # Requirements
 
